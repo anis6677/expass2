@@ -21,3 +21,6 @@ I have created a simple REST API (CRUD interface) for the domain model above, i.
 ( @GetMapping), create ( @PostMapping), update ( @PutMapping) and delete ( @DeleteMapping) for Users, 
 Polls, VoteOptions , 
 and Votes in respective controller classes (annotated with @RestController).
+
+The technical problems that had during the installation it was the whole process with domain protocols here 
+I used the help of YouTube to understand my errors and  how I could solve them.
